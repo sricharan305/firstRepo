@@ -1,0 +1,9 @@
+com\example\API\ContactsAPI.class
+com\example\controller\Tester.class
+com\example\service\ContactsService.class
+com\example\BaseClass.class
+com\example\service\ContactsServiceImpl.class
+com\example\dao\ContactsDAOImpl.class
+com\example\entity\ContactEntity.class
+com\example\dao\ContactsDAO.class
+com\example\model\ContactsModel.class
